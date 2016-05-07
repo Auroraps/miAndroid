@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taschenrechner 2016</string>
+    <string name="visor_por_defecto">0</string>
+    <string name="signoIgual">=</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora 2016</string>
+    <string name="visor_por_defecto">0</string>
+    <string name="signoIgual">=</string>
+</resources>
